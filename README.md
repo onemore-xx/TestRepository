@@ -1,2 +1,2 @@
 # TestRepository
-my firs public repository only for test purposes
+my first public repository only for test purposes
